@@ -10,7 +10,7 @@ target 'RSSNews' do
 pod 'ProgressHUD'
 pod 'SnapKit', '~> 5.0.0'
 pod 'SwiftDate', '~> 5.0'
-pod "Swinject/Swinject" ~> 1.1.4
+pod 'Swinject'
 pod 'RealmSwift' 
 
   target 'RSSNewsTests' do
